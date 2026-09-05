@@ -25,19 +25,19 @@ ImageEditor/
 ├── image.h
 ├── processing.c
 └── processing.h
-# main.c
+main.c
 Contains the IUP graphical user interface, buttons, dialogs, and callback functions.
 
-# image.c / image.h
+image.c / image.h
 Handle image structures, memory allocation, BMP loading, BMP saving, and image copying/freeing.
 
-# processing.c / processing.h
+processing.c / processing.h
 Contain the image manipulation algorithms and their function declarations.
 
-# Image Representation
+Image Representation
 Each pixel is represented using red, green, and blue components. The complete image is represented using its width, height, and a dynamically allocated array of pixels.
 
-# Image Processing
+Image Processing
 The image manipulation algorithms were implemented directly in C. The project uses pixel-level operations for grayscale conversion, brightness adjustment, inversion, flipping, rotation, cropping, blur, and sharpening.
 
 ## Screenshots
