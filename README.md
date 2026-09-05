@@ -51,7 +51,7 @@ Brightness Adjustment
 ![Brightness set to 30](brightness.png)
 
 Rotation
-![Rotate 90 degrees](rotate 90 degrees.png)
+![Rotation](rotate 90 degrees.png)
 
 Cropping
 ![Crop](crop.png)
