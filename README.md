@@ -1,4 +1,4 @@
-<img width="1920" height="1004" alt="blur" src="https://github.com/user-attachments/assets/4e679a7f-1c10-491b-a69b-8b4f73df2173" /># Image Editor
+## Image Editor
 
 ## Project Description
 This project is a graphical image editor developed in C using the IUP toolkit. The application allows the user to open and display 24-bit uncompressed BMP images, apply different image manipulation operations, and save the modified image.
@@ -57,7 +57,7 @@ Cropping
 ![Crop](crop.png)
 
 Blur
-
+![Blur](blur.png)
 
 Sharpen
 ![Sharpen](sharpen.png)
