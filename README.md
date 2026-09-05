@@ -42,7 +42,7 @@ The image manipulation algorithms were implemented directly in C. The project us
 
 ## Screenshots
 Main Interface
-![Main Interface](main interface.png)
+![Main Interface](maininterface.png)
 
 Grayscale
 ![Grayscale](grayscale.png)
@@ -51,7 +51,7 @@ Brightness Adjustment
 ![Brightness set to 30](brightness.png)
 
 Rotation
-![Rotation](rotate 90 degrees.png)
+![Rotation](rotate90degrees.png)
 
 Cropping
 ![Crop](crop.png)
@@ -66,10 +66,10 @@ Invert
 ![Invert](invert.png)
 
 Horizontal Flip
-![Horizontal Flip](horizontal flip.png)
+![Horizontal Flip](horizontalflip.png)
 
 Vertical Flip
-![Vertical Flip](vertical flip.png)
+![Vertical Flip](verticalflip.png)
 
 ## Technologies Used
 - C
