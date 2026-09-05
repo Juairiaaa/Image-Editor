@@ -25,6 +25,7 @@ ImageEditor/
 ├── image.h
 ├── processing.c
 └── processing.h
+
 main.c:
 Contains the IUP graphical user interface, buttons, dialogs, and callback functions.
 
@@ -39,6 +40,7 @@ Each pixel is represented using red, green, and blue components. The complete im
 
 Image Processing:
 The image manipulation algorithms were implemented directly in C. The project uses pixel-level operations for grayscale conversion, brightness adjustment, inversion, flipping, rotation, cropping, blur, and sharpening.
+
 
 ## Screenshots
 Main Interface
