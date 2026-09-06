@@ -20,6 +20,7 @@ This project is a graphical image editor developed in C using the IUP toolkit. T
 
 ## Project Structure
 ImageEditor/
+
 ├── main.c
 ├── image.c
 ├── image.h
